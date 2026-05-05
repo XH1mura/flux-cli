@@ -34,3 +34,8 @@ cd build
 cmake ..
 make
 ```
+
+### Curl Installing 
+```bash
+    curl -sSL https://github.com/XH1mura/flux-cli/raw/main/setup.sh | sudo bash
+```
