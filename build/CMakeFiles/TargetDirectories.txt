@@ -1,0 +1,7 @@
+/home/xhimura/CLI/build/CMakeFiles/flux.dir
+/home/xhimura/CLI/build/CMakeFiles/edit_cache.dir
+/home/xhimura/CLI/build/CMakeFiles/rebuild_cache.dir
+/home/xhimura/CLI/build/CMakeFiles/list_install_components.dir
+/home/xhimura/CLI/build/CMakeFiles/install.dir
+/home/xhimura/CLI/build/CMakeFiles/install/local.dir
+/home/xhimura/CLI/build/CMakeFiles/install/strip.dir
